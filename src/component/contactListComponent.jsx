@@ -9,6 +9,7 @@ export const ContactListComponent = props => {
 
     return (
     <div>
+        <h1>Contactos</h1>
         <ContactComponet contact = { contactDefault } ></ContactComponet>
     </div>
   )
